@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI_Calculator</string>
+    <string name="TV1">輸入身高 :</string>
+    <string name="TV2">輸入體重 :</string>
+    <string name="BTN1">計算BMI</string>
+    <string name="TV3">CM</string>
+    <string name="TV4">KG</string>
+</resources>
